@@ -3,6 +3,8 @@
 
 [ App Store ]
 
+■these apps are sold in AppStore, buy me a coffee!
+
 hunyapiyo3
 
 + brain trainer
