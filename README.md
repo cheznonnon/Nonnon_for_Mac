@@ -18,6 +18,7 @@ no ads or in-app purchase
 
 buy me a coffee, plz!
 
+<br>
 
 [ App Store ]
 
@@ -35,7 +36,7 @@ Nonnon Freecell
 
 + freecell solitaire
 
-
+<br>
 
 [ GitHub only ]
 
