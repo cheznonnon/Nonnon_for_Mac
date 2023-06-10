@@ -1,5 +1,23 @@
 # Nonnon_for_Mac
-  "Eat Your Own Catfood." 
+
+[ Concept ]
+
+based on KISS principle
+
+for the niche market
+
+schizo-friendly
+
+one-and-only
+
+like a one-dollar shop
+
+cheap but it's not free
+
+no ads or in-app purchase
+
+buy me a coffee, plz!
+
 
 [ App Store ]
 
