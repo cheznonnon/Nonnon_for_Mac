@@ -54,6 +54,10 @@ Nonnon Tools
 
 + misc tools
 
+Nyaagle
+
++ local search engine
+
 
 ■these apps are rejected by AppStore, its reason is "too much simple"
 
