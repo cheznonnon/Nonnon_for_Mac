@@ -1,5 +1,7 @@
 # Nonnon_for_Mac
 
+Update : 2023.6
+
 [ Concept ]
 
 based on KISS principle
