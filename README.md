@@ -2,6 +2,8 @@
 
 Update : 2023.6
 
+<br>
+
 [ Concept ]
 
 based on KISS principle
