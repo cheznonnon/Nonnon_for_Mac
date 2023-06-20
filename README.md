@@ -1,6 +1,6 @@
 # Nonnon_for_Mac
 
-Update : 2023.6
+Updated : 2023.6.20
 
 <br>
 
