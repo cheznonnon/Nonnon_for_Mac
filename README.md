@@ -1,6 +1,6 @@
 # Nonnon_for_Mac
 
-Updated : 2023.6.20
+Updated : 2023.6.25
 
 <br>
 
@@ -69,3 +69,7 @@ Nyaagle
 Nonnon Pinknoise
 
 + pinknoise player
+
+Nonnon Blank Screensaver
+
++ blank screensaver
