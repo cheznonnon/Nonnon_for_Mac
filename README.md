@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2023.6.28
+Updated : 2023.7.11
 
 <br>
 
@@ -48,6 +48,10 @@ Nonnon Marie
 Nonnon CatPad
 
 + simple text editor with meow
+
+Project Checker
+
++ diff tool
 
 <br>
 
