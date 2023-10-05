@@ -49,13 +49,14 @@ Nonnon CatPad
 
 + simple text editor with meow
 
-Project Checker
-
-+ diff tool
-
 Nonnon Typing
 
 + typing trainer
+
+Project Checker
+
++ diff tool
+  
 
 <br>
 
