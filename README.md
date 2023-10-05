@@ -53,6 +53,10 @@ Project Checker
 
 + diff tool
 
+Nonnon Typing
+
++ typing trainer
+
 <br>
 
 [ GitHub only ]
