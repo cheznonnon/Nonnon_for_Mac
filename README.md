@@ -1,7 +1,13 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2023.9.30
+Updated : 2023.10.09
+
+<br>
+
+[ Latest News ]
+
+2023.10.09 : Nonnon Paint : Multi-Layer : crash when saved : regression of September Release
 
 <br>
 
