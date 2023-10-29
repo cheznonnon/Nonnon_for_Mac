@@ -5,12 +5,6 @@ Updated : 2023.10.30
 
 <br>
 
-[ Latest News ]
-
-2023.10.09 : Nonnon Paint : Multi-Layer : crash when saved : regression of September Release
-
-<br>
-
 [ Concept ]
 
 based on KISS principle
