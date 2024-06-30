@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2024.05.25
+Updated : 2024.06.30
 
 <br>
 
