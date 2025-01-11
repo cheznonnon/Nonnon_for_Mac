@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2025.12.30
+Updated : 2025.01.11
 
 <br>
 
@@ -56,7 +56,6 @@ Nonnon Typing
 Project Checker
 
 + diff tool
-  
 
 <br>
 
@@ -75,6 +74,12 @@ Nonnon Tools
 Nyaagle
 
 + local search engine
+
+■non-company-made gambling game is forbidden by App Store
+
+Nonnon Poker
+
++ Bet Version is enabled
 
 <br>
 
