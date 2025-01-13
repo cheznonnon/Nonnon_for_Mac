@@ -75,11 +75,11 @@ Nyaagle
 
 + local search engine
 
-■non-company-made gambling game is forbidden by App Store
+■non-company-made gambling game is forbidden by AppStore
 
 Nonnon Poker
 
-+ Bet Version is enabled
++ Bet Mode is enabled
 
 <br>
 
