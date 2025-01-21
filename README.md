@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2025.01.20
+Updated : 2025.01.21
 
 <br>
 
@@ -79,7 +79,7 @@ Nyaagle
 
 Nonnon Poker
 
-+ Bet Mode is enabled
++ Simple Poker : Bet Mode is enabled
 
 <br>
 
