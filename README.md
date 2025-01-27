@@ -75,11 +75,13 @@ Nyaagle
 
 + local search engine
 
-■non-company-made gambling game is forbidden by AppStore
+■non-company-made pseudo-gambling game is forbidden by AppStore
 
 Nonnon Poker
 
-+ Simple Poker : Bet Mode is enabled
++ Simple Poker
++ no real money is used
++ some countries forbid this like software, use carefully
 
 <br>
 
