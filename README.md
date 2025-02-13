@@ -1,33 +1,23 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2025.01.30
+Updated : 2025.02.13
 
 <br>
 
-[ Concept ]
+[ CAUTION ]
 
-based on KISS principle
+"no guarantee"
+use at your own risk
 
-for the niche market
+the last notarized version : 2025 February
 
-schizo-friendly
 
-one-and-only
+[ Nonnon for Mac Lineup ]
 
-like a one-dollar shop
+Nonnon Blank Screensaver
 
-cheap but it's not free
-
-no ads or in-app purchase
-
-buy me a coffee, plz!
-
-<br>
-
-[ App Store ]
-
-■these apps are sold in AppStore, buy me a coffee!
++ blank screensaver
 
 hunyapiyo3
 
@@ -37,6 +27,14 @@ LINE MASHER 2
 
 + retro shooter
 
+Nekomimi Nina 2
+
++ Retro-like Otaku-esque 2D-Sprite-based Jump'N'Run Action Game
+
+Nonnon CatPad
+
++ simple text editor with meow
+
 Nonnon Freecell
 
 + freecell solitaire
@@ -45,56 +43,34 @@ Nonnon Marie
 
 + image viewer
 
-Nonnon CatPad
-
-+ simple text editor with meow
-
-Nonnon Typing
-
-+ typing trainer
-
-Project Checker
-
-+ diff tool
-
-<br>
-
-[ GitHub only ]
-
-■these apps need Sandbox OFF, so I cannot sell in AppStore
-
 Nonnon Paint
 
 + graphic editor
-
-Nonnon Tools
-
-+ misc tools
-
-Nyaagle
-
-+ local search engine
-
-■non-company-made pseudo-gambling game is forbidden by AppStore
-
-Nonnon Poker
-
-+ Simple Poker
-+ no real money is used
-+ some countries forbid this like software, use carefully
-
-<br>
-
-■these apps are rejected by AppStore, its reason is "too much simple"
 
 Nonnon Pinknoise
 
 + pinknoise player
 
-Nonnon Blank Screensaver
+Nonnon Poker
 
-+ blank screensaver
++ simple poker
+
+Nonnon Tools
+
++ misc tools
+
+Nonnon Typing
+
++ typing trainer
+
+Nyaagle
+
++ local search engine
 
 Pen Trainer
 
 + pen trainer
+
+Project Checker
+
++ diff tool
