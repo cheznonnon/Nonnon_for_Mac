@@ -10,8 +10,16 @@ Updated : 2025.02.13
 "no guarantee"<br>
 use at your own risk
 
-Mac has no compatibility, so below apps won't run on your Mac
+<br>
 
+[ Supported Environment ]
+
+MacBook Air M2<br>
+macOS 15 Sequoia
+
++ Mac has no compatibility, so below apps won't run on your Mac
++ open sourced : use Xcode to build your own one
+  
 <br>
 
 [ Nonnon for Mac Lineup ]
