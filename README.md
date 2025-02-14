@@ -19,7 +19,14 @@ macOS 15 Sequoia
 
 + Mac has no compatibility, so below apps won't run on your Mac
 + open sourced : use Xcode to build your own one
-  
+
+<br>
+
+[ Support ]
+
+feel free to report or to complain<br>
+https://github.com/cheznonnon/Forum/discussions
+
 <br>
 
 [ Nonnon for Mac Lineup ]
