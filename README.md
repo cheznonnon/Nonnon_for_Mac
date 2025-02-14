@@ -7,10 +7,10 @@ Updated : 2025.02.13
 
 [ CAUTION ]
 
-"no guarantee"
+"no guarantee"<br>
 use at your own risk
 
-the last notarized version : 2025 February
+Mac has no compatibility, so below apps won't run on your Mac
 
 <br>
 
