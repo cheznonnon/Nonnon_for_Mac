@@ -50,7 +50,7 @@ Nekomimi Nina 2
 Nonnon CatPad
 
 + simple text editor with meow
-+ [Readme](./Readme/catpad.c)
++ [Readme](./Readme/catpad.html)
 
 Nonnon Freecell
 
