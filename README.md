@@ -18,7 +18,16 @@ MacBook Air M2<br>
 macOS 15 Sequoia
 
 + Mac has no compatibility, so below apps won't run on your Mac
-+ open sourced : use Xcode to build your own one
++ source code may support Catalina at least (you need to tweak some)
+  
+<br>
+
+[ App(Binary) Distribution ]
+
+ended at May 2025<br>
+
++ I don't wanna pay $130 with Apple (I've paid $260 already, gained only $3)
++ use Xcode to build your own one
 
 <br>
 
@@ -63,6 +72,8 @@ Nonnon Paint
 
 + graphic editor
 
++ Sandbox is OFF
+
 Nonnon Pinknoise
 
 + pinknoise player
@@ -75,6 +86,8 @@ Nonnon Tools
 
 + misc tools
 
++ Sandbox is OFF
+
 Nonnon Typing
 
 + typing trainer
@@ -82,6 +95,8 @@ Nonnon Typing
 Nyaagle
 
 + local search engine
+
++ Sandbox is OFF
 
 Pen Trainer
 
