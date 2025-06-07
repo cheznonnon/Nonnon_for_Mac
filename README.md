@@ -24,7 +24,7 @@ macOS 15 Sequoia
 
 [ App(Binary) Distribution ]
 
-ended at May 2025<br>
+will end at June 2025<br>
 
 + I don't wanna pay $130 with Apple (I've paid $260 already, gained only $3)
 + use Xcode to build your own one
