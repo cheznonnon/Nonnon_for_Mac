@@ -40,8 +40,7 @@ https://github.com/cheznonnon/Forum/discussions
 
 [ Nonnon for Mac Lineup ]
 
-+ "scrennshot" folder has images
-+ "readme" folder has readme html(as text only)
++ "Scrennshot" folder has screenshot images
 
 Nonnon Blank Screensaver
 
@@ -50,30 +49,37 @@ Nonnon Blank Screensaver
 hunyapiyo3
 
 + brain trainer
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/hunyapiyo3.html)
 
 LINE MASHER 2
 
 + retro shooter
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/lm2.html)
 
 Nekomimi Nina 2
 
 + Retro-like Otaku-esque 2D-Sprite-based Jump'N'Run Action Game
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nn2.html)
 
 Nonnon CatPad
 
 + simple text editor with meow
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/catpad.html)
 
 Nonnon Freecell
 
 + freecell solitaire
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/freecell.html)
 
 Nonnon Marie
 
 + image viewer
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/marie.html)
 
 Nonnon Paint
 
 + graphic editor
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nonnon_paint.html)
 
 + Sandbox is OFF
 
@@ -84,20 +90,24 @@ Nonnon Pinknoise
 Nonnon Poker
 
 + simple poker
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nonnon_poker.html)
 
 Nonnon Tools
 
 + misc tools
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nonnon_tools.html)
 
 + Sandbox is OFF
 
 Nonnon Typing
 
 + typing trainer
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/Nonnon%20Typing.html)
 
 Nyaagle
 
 + local search engine
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nyaagle.html)
 
 + Sandbox is OFF
 
@@ -108,3 +118,4 @@ Pen Trainer
 Project Checker
 
 + diff tool
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/project%20checker.html)
