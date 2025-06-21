@@ -40,6 +40,9 @@ https://github.com/cheznonnon/Forum/discussions
 
 [ Nonnon for Mac Lineup ]
 
++ "scrennshot" folder has images
++ "readme" folder has readme html(as text only)
+
 Nonnon Blank Screensaver
 
 + blank screensaver
