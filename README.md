@@ -50,6 +50,7 @@ hunyapiyo3
 
 + brain trainer
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/hunyapiyo3.html)
++ [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/hunyapiyo3.png)
 
 LINE MASHER 2
 
