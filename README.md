@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2025.06.21
+Updated : 2025.06.30
 
 <br>
 
@@ -24,7 +24,7 @@ macOS 15 Sequoia
 
 [ App(Binary) Distribution ]
 
-will end at June 2025<br>
+ended at June 2025<br>
 
 + I don't wanna pay $130 with Apple (I've paid $260 already, gained only $3)
 + use Xcode to build your own one
