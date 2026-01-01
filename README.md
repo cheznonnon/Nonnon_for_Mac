@@ -98,7 +98,7 @@ Nonnon Nyaurism
 ![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/Icon/Nonnon%20Nyaurism.png)
 
 + .WAV tweaker
-+ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/Nonnon%20Nyaurism.html)
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nonnon_nyaurism.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Nyaurism.png)
 
 Nonnon Paint
