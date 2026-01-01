@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2025/12/31
+Updated : 2026/01/01
 
 <br>
 
@@ -47,11 +47,15 @@ Nonnon Blank Screensaver
 
 hunyapiyo3
 
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/hunyapiyo3.png)
+
 + brain trainer
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/hunyapiyo3.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/hunyapiyo3.png)
 
 LINE MASHER 2
+
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/LINE%20MASHER%202.png)
 
 + retro shooter
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/lm2.html)
@@ -59,11 +63,15 @@ LINE MASHER 2
 
 Nekomimi Nina 2
 
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Nekomimi%20Nina%202.png)
+
 + Retro-like Otaku-esque 2D-Sprite-based Jump'N'Run Action Game
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nn2.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nekomimi%20Nina%202.png)
 
 Nonnon CatPad
+
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Nonnon%20CatPad.png)
 
 + simple text editor with meow
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/catpad.html)
@@ -71,17 +79,23 @@ Nonnon CatPad
 
 Nonnon Freecell
 
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Nonnon%20Freecell.png)
+
 + freecell solitaire
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/freecell.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Freecell.png)
 
 Nonnon Marie
 
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Nonnon%20Marie.png)
+
 + image viewer
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/marie.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Marie.png)
 
 Nonnon Paint
+
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Nonnon%20Paint.png)
 
 + graphic editor
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nonnon_paint.html)
@@ -91,10 +105,14 @@ Nonnon Paint
 
 Nonnon Pinknoise
 
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Nonnon%20Pinknoise.png)
+
 + pinknoise player
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Pinknoise.png)
 
 Nonnon Poker
+
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Nonnon%20Poker.png)
 
 + simple poker
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nonnon_poker.html)
@@ -110,11 +128,15 @@ Nonnon Tools
 
 Nonnon Typing
 
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Nonnon%20Typing.png)
+
 + typing trainer
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/Nonnon%20Typing.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Typing.png)
 
 Nyaagle
+
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Nyaagle.png)
 
 + local search engine
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nyaagle.html)
@@ -124,10 +146,14 @@ Nyaagle
 
 Pen Trainer
 
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Pen%20Trainer.png)
+
 + pen trainer
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Pen%20Trainer.png)
 
 Project Checker
+
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/icon/Project%20Checker.png)
 
 + diff tool
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/project%20checker.html)
