@@ -99,7 +99,7 @@ Nonnon Blank Screensaver
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Marie.png)
 
 ---
-### Nonnon Nyaurism
+### Nonnon Nyaurism (Beta/Currently Update Daily)
 
 ![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/Icon/Nonnon%20Nyaurism.png)
 
