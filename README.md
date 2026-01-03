@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2026/01/02
+Updated : 2026/01/03
 
 <br>
 
@@ -99,7 +99,7 @@ Nonnon Blank Screensaver
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Marie.png)
 
 ---
-### Nonnon Nyaurism (Beta/Currently Update Daily)
+### Nonnon Nyaurism (Beta/Unstable/Currently Update Daily)
 
 ![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/Icon/Nonnon%20Nyaurism.png)
 
