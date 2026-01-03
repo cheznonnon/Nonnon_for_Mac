@@ -26,7 +26,7 @@ macOS 15 Sequoia
 
 ended at June 2025<br>
 
-+ I don't wanna pay $130 with Apple (I've paid $260 already, gained only $3)
++ I don't wanna pay ¥13000 with Apple (I've paid twice already, gained only $3)
 + some apps have special repositories. see [Repositories](https://github.com/cheznonnon?tab=repositories)<br>
 + you can use Xcode to build your own one
 
