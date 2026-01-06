@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2026/01/05
+Updated : 2026/01/06
 
 <br>
 
@@ -52,6 +52,7 @@ Nonnon Blank Screensaver
 + brain trainer
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/hunyapiyo3.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/hunyapiyo3.png)
++ [repository](https://github.com/cheznonnon/hunyapiyo3)
 
 ---
 ### LINE MASHER 2
@@ -70,6 +71,7 @@ Nonnon Blank Screensaver
 + Retro-like Otaku-esque 2D-Sprite-based Jump'N'Run Action Game
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nn2.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nekomimi%20Nina%202.png)
++ [repository](https://github.com/cheznonnon/Nekomimi-Nina-2)
 
 ---
 ### Nonnon CatPad
@@ -115,6 +117,7 @@ Nonnon Blank Screensaver
 + graphic editor
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nonnon_paint.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Paint.png)
++ [repository](https://github.com/cheznonnon/Nonnon-Paint)
 
 + Sandbox is OFF
 
