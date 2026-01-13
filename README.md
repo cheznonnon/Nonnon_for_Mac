@@ -1,7 +1,11 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2026/01/12
+Updated : 2026/01/13
+
+<br>
+
+"Info Center" Repo has latest changelogs
 
 <br>
 
