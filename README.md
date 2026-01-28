@@ -1,11 +1,13 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2026/01/26
+Updated : 2026/01/28
 
 <br>
 
 "Info Center" Repo has latest changelogs
+<br>
+["Nonnon for Windows"](https://github.com/cheznonnon/Nonnon_for_Windows) is now available
 
 <br>
 
