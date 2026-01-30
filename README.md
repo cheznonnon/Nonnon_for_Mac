@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2026/01/28
+Updated : 2026/01/30
 
 <br>
 
@@ -107,7 +107,7 @@ https://github.com/cheznonnon/Forum/discussions
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Marie.png)
 
 ---
-### Nonnon Nyaurism (Beta/Unstable/Currently Update Daily)
+### Nonnon Nyaurism
 
 ![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/Icon/Nonnon%20Nyaurism.png)
 
