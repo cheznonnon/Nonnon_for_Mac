@@ -1,7 +1,7 @@
 # Nonnon for Mac
 ## minimalist app collections
 
-Updated : 2026/02/28
+Updated : 2026/03/30
 
 <br>
 
@@ -107,6 +107,17 @@ https://github.com/cheznonnon/Forum/discussions
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Marie.png)
 
 ---
+### Nonnon Nyaagle
+
+![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/Icon/Nyaagle.png)
+
++ local search engine
++ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nyaagle.html)
++ [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nyaagle.png)
+
++ Sandbox is OFF
+
+---
 ### Nonnon Nyaurism
 
 ![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/Icon/Nonnon%20Nyaurism.png)
@@ -162,17 +173,6 @@ https://github.com/cheznonnon/Forum/discussions
 + typing trainer
 + [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/Nonnon%20Typing.html)
 + [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nonnon%20Typing.png)
-
----
-### Nyaagle
-
-![Icon](https://cheznonnon.github.io/Nonnon_for_Mac/Icon/Nyaagle.png)
-
-+ local search engine
-+ [readme](https://cheznonnon.github.io/Nonnon_for_Mac/readme/nyaagle.html)
-+ [screenshot](https://cheznonnon.github.io/Nonnon_for_Mac/Screenshot/Nyaagle.png)
-
-+ Sandbox is OFF
 
 ---
 ### Pen Trainer
