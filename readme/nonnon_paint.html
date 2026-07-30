@@ -475,10 +475,22 @@
 
 		less memory, less precision
 
+		[ Resampler ]
+
+			click while pressing Comamnd key
+
+			+ using bicubic method
+
 
 	2 : Enlarge : x2
 
 		more memory, more precision
+
+		[ Resampler ]
+
+			click while pressing Comamnd key
+
+			+ using bicubic method
 
 
 	3 : Mirror
@@ -537,10 +549,13 @@
 
 		Smooth Fill
 
-			press Comamnd key when click
+			click while pressing Comamnd key
 
-			+ currently fill-as-chunk only available
-			+ you cannot use black(RGB 0,0,0) as filling color
+			[ not perfect solution ]
+
+			+ please use after saved
+			+ don't use similar tone, else all will be painted
+			+ Euclid Distance is used : parameter 256 is used internally
 
 
 	3 : Grabber
@@ -743,23 +758,11 @@
 
 			make an icon for Mac
 
-		Contour
+		Outline with Picked Color
 
-			auto contour
+			auto outline
 
-			+ alpha sensitive version of Monochrome
-
-			[ Conditions ]
-
-				background has alpha zero
-
-			[ Usage ]
-
-				for thicker contour, use this many times
-				an output image is jaggy as intended
-
-				+ use "Fill" and "Color Replacer" to remove garbage pixels
-				+ you can use "Thicken Lines" of Multi-Layer too
+			+ Simplified Sobel Filter
 
 	Gamma
 
@@ -802,6 +805,18 @@
 		tweak contrast
 
 		+ very strong tool, use a small value
+
+
+	Thick/Thin
+
+		make chunk thick or thin
+
+		+  plus value :  larger value of color grows
+		+ minus value : smaller value of color grows
+
+		+ so called "Morphology Delation/Erosion"
+		+ not almighty, not working well in some cases
+
 
 </pre>
 
@@ -846,6 +861,15 @@
 		+ yellow color is blended when alpha has non-visible value
 
 		+ Nonnon Paint remembers the last setting
+
+
+	Gray Canvas
+
+		make canvas grayscaled
+
+		+ only in displaying, data are safe
+
+		+ to make brightness sensitive images
 
 
 	Pressure
@@ -1062,14 +1086,6 @@
 
 			turn off except for a selected layer
 
-			[ Thicken Lines ]
-			[ Thin Lines ]
-
-			make lines thicker/thinner
-
-			+ background : argb(   0,255,255,255 )
-			+ foreground : color on color picker
-
 			[ Add A New Layer ]
 
 			add a new layer
@@ -1188,7 +1204,7 @@
 [Nonnon INI2GDI]
 
 size               = 256 256
-style              = smooth contour shadow
+style              = smooth shadow
 layout             = vertical
 align              = center
 
@@ -1198,10 +1214,11 @@ base_style         = vertical
 text               = "Nonnon INI2GDI"
 text_font          = Arial, 33
 text_color         = 255 255 255 255, 255 0 150 200
-text_color_shadow  = 255   0 100 150
-text_color_contour = 255   0 150 200
 text_style         = bold gradient
-text_fxsize        = 1 2
+
+text_effect_style = outline
+text_effect_color = 255   0 150 200
+text_effect_param = 2
 
 </pre>	[ Multi-Layer ]<pre class="info">
 
@@ -1249,10 +1266,11 @@ base_color         = 0 255 255 255
 text               = "Nonnon INI2GDI"
 text_font          = Arial, 33
 text_color         = 255 255 255 255, 255 0 150 200
-text_color_shadow  = 255   0 100 150
-text_color_contour = 255   0 150 200
 text_style         = bold gradient
-text_fxsize        = 1 2
+
+text_effect_style = outline outline_fog
+text_effect_color = 255 0 150 200, 255 111 111 111
+text_effect_param = 2 1
 
 </pre>	Reference is here<pre class="info">
 
@@ -1290,22 +1308,19 @@ frame_fxsize       = round for "round" or "rpg" : default is "4"
 frame_corner_color = A R G B : for "luna" "round"
 
 icon               = file_name, index
-icon_color_shadow  = A1 R1 G1 B1
-icon_color_contour = A1 R1 G1 B1
-icon_color_sink    = A1 R1 G1 B1, A2 R2 G2 B2 : *1 for top-left, *2 for bottom-right
-icon_style         = [ combination  ] default | ( shadow | shadow_fog ) | ( contour | contour_fog | sink ) | stretch | tile
+icon_style         = [ combination ] default | stretch | tile
 icon_size          = x y
-icon_fxsize        = o1 o2 : offset1 for shadow, offset2 for contour/sink
+icon_effect_style  = shadow shadow_fog outline outline_fog sink
+icon_effect_color  = A R G B
+icon_effect_param  = parameter for "icon_effect_style"
 
 text               = file_name
 text_font          = font_name, size
 text_color         = A1 R1 G1 B1, A2 R2 G2 B2 : color, gradient color
-text_color_shadow  = A1 R1 G1 B1
-text_color_contour = A1 R1 G1 B1
-text_color_sink    = A1 R1 G1 B1, A2 R2 G2 B2 : *1 for top-left, *2 for bottom-right
-text_style         = [ combination  ] bold | italic | underline | strikeout | fixed | smooth | clear | gradient
-                     [ combination  ] default | ( shadow | shadow_fog ) | ( contour | contour_fog | sink )
-text_fxsize        = o1 o2 : offset1 for shadow, offset2 for contour/sink
+text_style         = [ combination ] bold | italic | underline | strikeout | fixed | smooth | gradient
+text_effect_style  = shadow shadow_fog outline outline_fog sink
+text_effect_color  = A R G B
+text_effect_param  = parameter for "text_effect_style"
 
 
 
@@ -1328,6 +1343,7 @@ frame_style        = Flat    : simple | flat | etch | luna | round | rpg | aqua
 
 text               = a single line will be drawn when a file is not exist
 text_font          = some styles need empty name
+text_effect_*      = you canset max 4 options
 
 icon               = Explorer Compatible : EXE DLL ICO CUR ...
                      Image Loader        : BMP PNG JPG GIF
@@ -1335,8 +1351,7 @@ icon_style         = stretch             : stretch when "icon_size" is larger th
                      tile                : other parameters are not used
 icon_size          = Explorer Compatible : margin will be added
                      Image Loader        : an image will be resized
-
-icon_clip          = "image name(.BMP or .PNG)", offset_x, offset_y : use non-draw area
+icon_effect_*      = you canset max 4 options
 
 </pre>
 </pre>
